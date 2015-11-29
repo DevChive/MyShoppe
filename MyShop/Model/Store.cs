@@ -81,6 +81,8 @@ namespace MyShop
 
 		public string PhoneNumber { get; set; }
 		public string LocationCode { get; set; }
+
+
 	}
 }
 
